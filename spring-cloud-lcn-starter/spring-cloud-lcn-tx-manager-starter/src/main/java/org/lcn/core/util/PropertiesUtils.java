@@ -1,4 +1,4 @@
-package org.lcn.man.util;
+package org.lcn.core.util;
 import org.springframework.beans.factory.config.YamlPropertiesFactoryBean;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;

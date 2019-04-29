@@ -1,9 +1,9 @@
-package org.lcn.man;
+package org.lcn.core.man;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
-import org.lcn.man.util.PropertiesUtils;
+import org.lcn.core.util.PropertiesUtils;
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 

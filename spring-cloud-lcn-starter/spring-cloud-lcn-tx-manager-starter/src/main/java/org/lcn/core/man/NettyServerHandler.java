@@ -1,4 +1,4 @@
-package org.lcn.man;
+package org.lcn.core.man;
 
 import java.util.ArrayList;
 import java.util.HashMap;
